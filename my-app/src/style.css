@@ -15,6 +15,25 @@
   color: white;
 }
 
+.bg {
+  margin: 0 auto;
+  max-width: 80em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.col {
+  margin: 0;
+  width: 50%;
+  padding: 2em;
+}
+
+.col img {
+  width: 100%;
+}
+
 .right.floated.center.aligned.hbtitle.column {
   padding-top: 300px;
 }
